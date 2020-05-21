@@ -1,6 +1,6 @@
 # Law site in MVC
 
-Create a site from scratch with in the form of MVC
+Buld a site from scratch with in the form of MVC
 
 ![N|Solid](https://github.com/TursunboyevJahongir/SiteLowMVC/blob/master/assets/img/001.jpg?raw=true)
 
