@@ -21,7 +21,6 @@ Dillinger uses a number of open source projects to work properly:
 * [Ace Editor] - awesome web-based text editor
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [AdminLte](https://adminlte.io/) - AdminLTE Bootstrap Admin Dashboard Template
-* [Express] - fast node.js network app framework [@tjholowaychuk]
 * [jQuery] - duh
 
 ![N|Solid](https://github.com/TursunboyevJahongir/SiteLowMVC/blob/master/assets/img/2020-05-21_125612.png?raw=true)
